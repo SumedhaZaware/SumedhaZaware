@@ -19,5 +19,5 @@
 
 <!-- ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjoshi6&theme=midnight-purple&show_icons=true) -->
 [![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware)](https://github.com/SumedhaZaware/github-readme-stats)
-
+![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaZaware)](https://github.com/SumedhaZaware/github-readme-stats)
