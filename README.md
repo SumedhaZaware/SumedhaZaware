@@ -17,5 +17,7 @@
 <a href="https://www.linkedin.com/in/rohit-joshi-5119191a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/rohitjoshi6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://rohitjoshi63.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjoshi6&theme=midnight-purple&show_icons=true)
+<!-- ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjoshi6&theme=midnight-purple&show_icons=true) -->
 [![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware)](https://github.com/SumedhaZaware/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaZaware)](https://github.com/SumedhaZaware/github-readme-stats)
