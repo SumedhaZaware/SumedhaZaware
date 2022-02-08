@@ -3,6 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumedha Zaware</h1>
-<h3 align="center">Pre Final Year Student at Pimpri Chinchwad College of Engineering</h3>
+<h3 align="center">Pre Final Year Student at Pimpri Chinchwad College of Engineering, Pune</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SumedhaZaware&color=green" alt="SumedhaZaware" /> </p>
 <!-- <p align="center">![](https://komarev.com/ghpvc/?username=SumedhaZaware&color=green)</p>  -->
