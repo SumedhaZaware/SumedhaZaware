@@ -8,3 +8,5 @@
 <!-- <p align="center">![](https://komarev.com/ghpvc/?username=SumedhaZaware&color=green)</p>  -->
 
 <p align="justify"> I am currently a Third Year of Computer Engineering 🎓 from Pune University 🏛. A self-driven passionate programmer💻 who loves to develop programs using cutting-edge technologies⚡. Skilled in Graphical User Interface (GUI), Python (Programming Language), C++, and core JAVA. Also, I also do competitive programming and have proficient knowledge of web development.</p>
+
+![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
