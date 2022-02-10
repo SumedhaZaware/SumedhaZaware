@@ -13,4 +13,4 @@
 
 <h4>Connect with me:</h4>
 
-<a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green"></a>
+<a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
