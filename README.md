@@ -11,5 +11,5 @@
 
 ![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
 
-<h3>Connect with me:</h3>
+<h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
