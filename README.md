@@ -11,5 +11,7 @@
 
 ![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
 
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
