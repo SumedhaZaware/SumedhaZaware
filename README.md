@@ -18,6 +18,7 @@
 
 ![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
 
+<h2> Skills </h2>
 
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></img>
