@@ -1,5 +1,6 @@
 <!-- https://share.streamlit.io/rahulbanerjee26/githubaboutmegenerator/main/__init__.py 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91329268/152631608-3668baf9-6afb-4d9e-bb68-e7df1b5cb071.gif" width="750">
@@ -16,7 +17,12 @@
 ![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
 
 <!-- ![Metrics](https://metrics.lecoq.io/SumedhaZaware?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto) -->
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaZaware&langs_count=8)](https://github.com/SumedhaZaware/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumedhaZaware&layout=compact)](https://github.com/SumedhaZaware/github-readme-stats)-->
 
