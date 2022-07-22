@@ -31,5 +31,5 @@
 
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
 
-<h3>Connect with me</h3>
+<h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
