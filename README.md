@@ -16,7 +16,7 @@
 <h2> My GitHub Stats </h2>
 
 
-![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
+#![Sumedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumedhaZaware&show_icons=true&theme=graywhite)
 
 <h2> Skills </h2>
 
