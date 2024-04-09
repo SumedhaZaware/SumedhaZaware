@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SumedhaZaware&color=green" alt="SumedhaZaware" /> </p>
 
 <p align="justify"> I am a Final year Student of Computer Engineering 🎓 from Pune University 🏛. A self-driven passionate programmer💻 who loves to develop programs using cutting-edge technologies⚡. Skilled in Graphical User Interface (GUI), Python (Programming Language), C++, and core JAVA. Also, I do competitive programming and have proficient knowledge of web development.</p>
-
+<!--
 <h2> My GitHub Stats </h2>
 
 
@@ -30,6 +30,6 @@
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></img>
 
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png"></img>
-
+-->
 <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/zawaresumedha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
