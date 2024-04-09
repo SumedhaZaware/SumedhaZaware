@@ -10,9 +10,9 @@
 <h1 align="center">Hi 👋, I'm Sumedha Zaware</h1>
 <h3 align="center">Final Year Student at Pimpri Chinchwad College of Engineering, Pune</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SumedhaZaware&color=green" alt="SumedhaZaware" /> </p>
-
-<p align="justify"> I am a Final year Student of Computer Engineering 🎓 from Pune University 🏛. A self-driven passionate programmer💻 who loves to develop programs using cutting-edge technologies⚡. Skilled in Graphical User Interface (GUI), Python (Programming Language), C++, and core JAVA. Also, I do competitive programming and have proficient knowledge of web development.</p>
 <!--
+<p align="justify"> I am a Final year Student of Computer Engineering 🎓 from Pune University 🏛. A self-driven passionate programmer💻 who loves to develop programs using cutting-edge technologies⚡. Skilled in Graphical User Interface (GUI), Python (Programming Language), C++, and core JAVA. Also, I do competitive programming and have proficient knowledge of web development.</p>
+
 <h2> My GitHub Stats </h2>
 
 
